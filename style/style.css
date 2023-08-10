@@ -804,7 +804,7 @@ li {
   }
   .menu__list {
     display: block;
-    margin-bottom: 20px;
+    margin: 20px 0;
   }
   .menu__list li {
     display: block;
